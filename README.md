@@ -1,2 +1,2 @@
 # bostonography
-Projects from my Spring 2019 Bostonography course at Northeastern University.
+This repo hosts my projects from the Spring 2019 Bostonography course at Northeastern University. [Bostonography: Exploring the City through Texts, Maps, and Networks (INSH 2102)](http://bostonography.benschmidt.org/index.html) teaches students how to apply computational methods to cultural, historical, and society questions about Boston. I became well-versed in using R for data cleaning and visualization through the assignments for this course, especially the tidyverse and ggplot libraries.
