@@ -1,7 +1,7 @@
 ---
 title: "Analysis of MOR-EV data"
 date: "February 2019"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 #### By Erica Yee / Bostonography
