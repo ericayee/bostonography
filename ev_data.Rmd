@@ -5,7 +5,7 @@ output: rmarkdown::github_document
 ---
 
 #### By Erica Yee / Bostonography
-For my tabular data assignment I used a data set from the [Massachusetts Offeres Rebates for Electric Vehicles](https://mor-ev.org) program. I retrieved the data set as a Google Sheet directly from the website, then downloaded it as a csv. Some of the rebates listed in this data were distributed to Boston zip codes.
+For my tabular data assignment I used a data set from the [Massachusetts Offers Rebates for Electric Vehicles](https://mor-ev.org) program. I retrieved the data set as a Google Sheet directly from the website, then downloaded it as a csv. Some of the rebates listed in this data were distributed to Boston zip codes.
 
 ```{r message=FALSE, warning=FALSE}
 # load the tidyverse libraries
